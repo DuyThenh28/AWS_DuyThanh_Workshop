@@ -19,3 +19,4 @@ Chào mừng các bạn đến với bài thực hành AWS! Trong workshop này,
 6. [Module 4: Serverless Backend & AWS SDK v3](5.6-Module4-Serverless/)
 7. [Triển khai & Kiểm thử](5.7-Deployment-Testing/)
 8. [Dọn dẹp & Nâng cao](5.8-Cleanup-Advanced/)
+9. [Demo](5.9-Demo/)

@@ -19,3 +19,4 @@ Welcome to the AWS hands-on lab! In this workshop, you will build and deploy a m
 6. [Module 4: Serverless Backend & AWS SDK v3](5.6-Module4-Serverless/)
 7. [Deployment & Testing](5.7-Deployment-Testing/)
 8. [Clean-up Advanced](5.8-Cleanup-Advanced/)
+9. [Demo](5.9-Demo/)
