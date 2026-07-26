@@ -33,13 +33,23 @@ The workshop introduced the application of **Generative AI** in application and 
 
 ---
 
+## 📌 Event 2
+### [FCAJ x AABW Community Day](4.2-Event2/)
+
+| **Information** | **Details** |
+|:----------------|:------------|
+| **📅 Date & Time** | July 25, 2026 |
+| **📍 Location** | AWS AI Build Week Community Day |
+| **👤 Role** | Participant |
+
 ### 📝 Description
 
-This event marked the conclusion of the internship program, where each team presented the final product developed during the twelve-week bootcamp. My team introduced the **Saxophone Store Website**, presenting the system architecture, AWS deployment process, key features, and the challenges encountered throughout the development process.
+The event marked the conclusion of AWS AI Build Week, where teams showcased their AI projects and shared their development experiences. Participants explored innovative solutions such as **Hackathon Journey**, **SignalScout**, and **Solution Architect Professional Native App**, gaining practical insights into AI applications and AWS technologies.
 
 ### 🎯 Outcomes and Achievements
 
-- Improved presentation and public speaking skills.
-- Received valuable feedback from AWS mentors to enhance the project.
-- Strengthened teamwork and project management skills.
-- Successfully completed the project and gained practical experience in deploying web applications on AWS.
+- Learned from real-world AI projects built on AWS.
+- Improved presentation and communication skills.
+- Gained practical knowledge of AWS AI services and solution architecture.
+- Expanded teamwork and problem-solving experience.
+- Applied the knowledge gained to improve the **Saxophone Store Website** project.
