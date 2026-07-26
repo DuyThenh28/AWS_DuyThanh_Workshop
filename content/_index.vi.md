@@ -115,7 +115,7 @@ line-height:2;
 
 Xin chào!
 
-Tôi là **Đinh Nguyễn Duy Thành**, sinh viên ngành **Công nghệ Thông tin** tại **Trường Đại học Công nghệ TP. Hồ Chí Minh (HUTECH)**.
+Tôi là **Đinh Nguyễn Duy Thanh**, sinh viên ngành **Công nghệ Thông tin** tại **Trường Đại học Công nghệ TP. Hồ Chí Minh (HUTECH)**.
 
 Trong thời gian thực tập tại **Amazon Web Services Vietnam Co., Ltd.**, tôi có cơ hội tham gia chương trình **AWS Workforce Bootcamp – First Cloud AI Journey**.
 
