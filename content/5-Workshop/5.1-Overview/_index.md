@@ -5,7 +5,6 @@ weight: 1
 chapter: false
 pre: " <b> 5.1. </b> "
 ---
-# Workshop Overview
 
 **Context & Problem Statement:**
 This workshop simulates the process of building a Serverless e-commerce platform on AWS, integrated with a Next.js Frontend. The goal is to address the challenge of scaling dynamically during traffic spikes, optimizing costs, and reducing infrastructure management overhead.

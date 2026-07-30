@@ -5,7 +5,6 @@ weight: 1
 chapter: false
 pre: " <b> 5.1. </b> "
 ---
-# Tổng quan Workshop
 
 **Bối cảnh & Bài toán:**
 Workshop này mô phỏng quá trình xây dựng một nền tảng thương mại điện tử phi máy chủ (Serverless) trên AWS, tích hợp Frontend bằng Next.js. Mục tiêu nhằm giải quyết bài toán mở rộng linh hoạt trong các đợt cao điểm, tối ưu hóa chi phí và giảm công sức quản trị hạ tầng.
